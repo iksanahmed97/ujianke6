@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "555874178374",
+    "project_id": "ujian-ke-6",
+    "storage_bucket": "ujian-ke-6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555874178374:android:00bc764ac90ce5bcdc8147",
+        "android_client_info": {
+          "package_name": "com.ujianke6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555874178374-c876uf6qdfcsp5fqpsjuoucorkil4s6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnHrA-Ezv8Pe2az_dpyVDv6Drl_REhEvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555874178374-c876uf6qdfcsp5fqpsjuoucorkil4s6u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
